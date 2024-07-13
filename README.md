@@ -1,16 +1,10 @@
 # chatbot_app_sefyan
 
-A new Flutter project.
+A ChatBOT app using Flutter, I ran out of OpenAI's quota so I used a dummy API.
+https://mockgpt.wiremock.io/
 
-## Getting Started
+## Overview of the app
 
-This project is a starting point for a Flutter application.
+![Feature Demonstration](https://github.com/SefyanKehail/chatbot-flutter/Animation.gif)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
