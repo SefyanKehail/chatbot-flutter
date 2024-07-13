@@ -5,6 +5,5 @@ https://mockgpt.wiremock.io/
 
 ## Overview of the app
 
-![Feature Demonstration](https://github.com/SefyanKehail/chatbot-flutter/Animation.gif)
-
+![Animation](https://github.com/user-attachments/assets/71ac04a5-653a-4018-81d8-119ac02deffb)
 
